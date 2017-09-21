@@ -1,0 +1,20 @@
+{
+第一行
+}
+{
+第二行
+第三行什么都没有
+}
+第四行有很多重要信息
+{
+type:web
+url：
+key:
+value：
+send
+}
+{
+type:cal
+var a
+print （a）
+}
